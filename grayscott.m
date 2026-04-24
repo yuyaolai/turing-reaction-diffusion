@@ -1,6 +1,5 @@
 %% ============================================================
-%  CONSISTENT REACTION-DIFFUSION SOLVER (GRAY-SCOTT)
-%  Aligned with Schnakenberg numerical style
+%  GRAY-SCOTT
 %% ============================================================
 clear; clc; close all;
 

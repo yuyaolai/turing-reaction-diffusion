@@ -1,10 +1,5 @@
 %% ============================================================
-%  TURING REACTION-DIFFUSION — FIXED VERSION
-%  Schnakenberg Model on a smaller domain with correct scaling
-%  so patterns visibly emerge.
-%
-%  ONLY run Sections 3 and 4 (1D and 2D) if you already have
-%  Figures 1 and 4 from the first script.
+%  SCHNAKENBERG
 %% ============================================================
 
 clear; clc; close all;
